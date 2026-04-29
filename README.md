@@ -1,4 +1,4 @@
-# 🧠 NemoDuo
+# NemoDuo
 
 **A hybrid multi-agent research system powered by NVIDIA Nemotron 3.**
 
