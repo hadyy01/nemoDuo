@@ -143,20 +143,4 @@ The `REASONING_BUDGET` controls how many tokens Nemotron 3 Super spends thinking
 
 ---
 
-## 🗺️ Roadmap
-
-- [ ] Streaming token output from Nano
-- [ ] PDF upload support in UI
-- [ ] Parallel subtask execution
-- [ ] Comparison mode: Duo vs Solo (Super only) side-by-side
-- [ ] Jetson Orin Nano deployment guide
-
----
-
-## 📄 License
-
-MIT
-
----
-
 Built with [Nemotron 3](https://developer.nvidia.com/nemotron) · [NVIDIA NIM](https://developer.nvidia.com/nim) · [Ollama](https://ollama.com) · [Streamlit](https://streamlit.io)
