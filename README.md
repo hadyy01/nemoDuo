@@ -49,7 +49,7 @@ Final Answer + Citations + Metrics
 ### 1. Clone & configure
 
 ```bash
-git clone https://github.com/yourusername/nemoDuo.git
+git clone https://github.com/hadyy01/nemoDuo.git
 cd nemoDuo
 cp .env.example .env
 # Edit .env — add your NVIDIA_API_KEY
